@@ -1,0 +1,161 @@
+html,
+.body{
+    background-color: rgb(48, 55, 94);
+}
+h1 {
+    color: rgb(227, 227, 227);
+    
+}
+
+.DancingLine{
+    width: 360px;
+    height: 366px;
+    margin-left: 160px;
+    margin-top: 30px;
+    border-style: solid;
+    border-color: rgb(32, 24, 89);
+}
+
+.Siersel{
+    width: 250px;
+    height: 249px;
+    margin-left: 40px;
+    border-style: solid;
+    border-color: rgb(32, 24, 89);
+}
+
+h3{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+.Pieter{
+    text-align: left;
+    margin-left: 186px;
+}
+
+.Ouborg{
+    border-style: dotted;
+    border-color: rgb(107, 107, 148);
+    border-radius: 6px;
+}
+
+.Waarom{
+    text-align: left;
+    margin-left: 60px;
+}
+
+.friendship{
+    width: 480px;
+    height: 340px;
+    margin-left: 40px;
+    border-style: solid;
+    border-color:rgb(32, 24, 89) ;
+}
+
+.Lubaina{
+    border-style: dotted;
+    border-color: rgb(107, 107, 148);
+    border-radius: 6px;
+}
+
+
+.Himid{
+    text-align: left;
+    margin-left: 186px;
+}
+
+.Why{
+    text-align: left;
+    
+}
+
+.Hoek{
+    width: 400px;
+    height: 460px;
+    margin-left: 40px;
+    border-style: solid;
+    border-color: rgb(32, 24, 89);
+    border-radius: 6px;
+
+}
+
+.Opus{
+    margin-right: 80px;
+}
+
+.Rasheed{
+    border-style: dotted;
+    border-color:rgb(107, 107, 148) ;
+     
+     border-radius: 6px;
+    
+}
+
+.Araeen{
+    text-align: left;
+    margin-left: 40px;
+}
+
+.wrm{
+    margin-left: 15px;
+}
+
+.paintcolour{
+    width: 350px;
+    height: 380px;
+    border-style: solid;
+    border-color: rgb(32, 24, 89);
+    
+}
+
+.closeup{
+    width: 300px;
+    height: 310px;
+    margin-left: 20px;
+    border-style: solid;
+    border-color: rgb(32, 24, 89);
+}
+
+.Otobang{
+    border-style: dotted;
+    border-color: rgb(107, 107, 148);
+    border-radius: 6px;
+
+}
+
+.Nkanga{
+    text-align: left;
+    margin-left: 40px;
+}
+
+.whyy{
+    margin-left: 20px;
+}
+
+.Flower{
+    width: 380px;
+    height: 350px;
+    border-style: solid;
+    border-color:rgb(32, 24, 89) ;
+
+}
+
+.Marjetica{
+    border-style: dotted;
+    border-color: rgb(107, 107, 148);
+    border-radius: 6px;
+
+}
+
+.Potrc{
+    text-align: left;
+    margin-left: 40px;
+}
+
+.waaromm{
+    margin-left: 20px;
+}
